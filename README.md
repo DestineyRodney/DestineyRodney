@@ -1,4 +1,4 @@
-<h1 align = center> Hi 👋 I'm Desetiney Rodney </h1>
+<h1 align = center> Hi 👋 I'm Destiney Rodney </h1>
 
 <h2 align = center> Full Stack Web Developer </h2>
   
