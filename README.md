@@ -2,7 +2,7 @@
 
 <h2 align = center> Full Stack Web Developer </h2>
   
-  
+  <img align=right src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="Visitors"/>
 
 <h2> About Me:</h2>
 <details>
